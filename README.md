@@ -7,7 +7,7 @@ le-sport （爱运动）是一个前后端分离的**体育消费券免费发放
 <img src="images/地址.png" width="30%" height="auto">
 
 ## 技术栈
-- 后端：SpringBoot + Mybatis + MySQL + Redis + RabbitMQ + Nginx + Docker
+- 后端：SpringBoot3 + Java21（开启虚拟线程） + Mybatis + MySQL + Redis + RabbitMQ + Nginx + Docker
 - 前端：Vue + ElementUI + Axios
 
 ## 项目架构图
