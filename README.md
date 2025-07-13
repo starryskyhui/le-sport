@@ -5,7 +5,7 @@ le-sport （爱运动）是一个前后端分离的**体育消费券免费发放
 
 ## 在线体验地址（请使用微信扫描下面二维码打开页面）
 ![在线体验二维码](images/地址.png)
-<img src="images/地址.png" width="30%" height="30%">
+<img src="images/地址.png" width="30%" height="auto">
 
 ## 技术栈
 - 后端：SpringBoot + Mybatis + MySQL + Redis + RabbitMQ + Nginx + Docker
