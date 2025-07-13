@@ -11,10 +11,10 @@ le-sport （爱运动）是一个前后端分离的**体育消费券免费发放
 - 前端：Vue + ElementUI + Axios
 
 ## 项目架构图
-<img src="images/系统架构图.png" width="30%" height="auto">
+<img src="images/系统架构图.png" width="60%" height="auto">
 
 ## 功能思维导图
-<img src="images/思维导图.png" width="30%" height="auto">
+<img src="images/思维导图.png" width="60%" height="auto">
 
 ## 重点功能模块介绍
 ### 限时抢券功能
