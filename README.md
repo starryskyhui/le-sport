@@ -45,4 +45,5 @@ le-sport （爱运动）是一个前后端分离的**体育消费券免费发放
 ![订单状态流转图](images/orderStatus.png)
 
 - 下单支付完整时序图
+
 ![微信支付](images/orderSeq.png)
