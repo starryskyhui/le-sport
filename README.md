@@ -11,15 +11,18 @@ le-sport （爱运动）是一个前后端分离的**体育消费券免费发放
 **测试邮箱号**：123456@le.com **密码**：123456le
 
 ## 项目预览
-<img alt="效果图1" src="images/page1.jpg" width="30%" height="auto">
-
-<img alt="效果图2" src="images/page2.jpg" width="30%" height="auto">
-
-<img alt="效果图3" src="images/page3.jpg" width="30%" height="auto">
-
-<img alt="效果图4" src="images/page4.jpg" width="30%" height="auto">
-
-<img alt="效果图5" src="images/page5.jpg" width="30%" height="auto">
+<table>
+  <tr>
+    <td><img alt="效果图1" src="images/page1.jpg" width="100%" height="auto"></td>
+    <td><img alt="效果图2" src="images/page2.jpg" width="100%" height="auto"></td>
+    <td><img alt="效果图3" src="images/page3.jpg" width="100%" height="auto"></td>
+  </tr>
+  <tr>
+    <td><img alt="效果图4" src="images/page4.jpg" width="100%" height="auto"></td>
+    <td><img alt="效果图5" src="images/page5.jpg" width="100%" height="auto"></td>
+    <td></td>
+  </tr>
+</table>
 
 ## 技术栈
 - 后端：SpringBoot3 + Java21（开启虚拟线程） + Mybatis + MySQL + Redis + RabbitMQ + Nginx + Docker
