@@ -6,11 +6,12 @@ le-sport （爱运动）是一个前后端分离的**体育消费券免费发放
 ## 在线体验地址（请使用微信扫描下面二维码打开页面）
 <img alt="二维码" src="images/qr.png" width="20%" height="auto">
 
+或者使用微信APP打开：https://sport.b2ps6.top
 注：项目使用了CloudflareCDN，因为Cloudflare没有国内的节点，所以网站加载速度会有点慢，请耐心等待；在打开页面的时候，微信可能会提示“无法确认该页面的安全性，请谨慎访问”属正常现象，点击继续访问即可。
 
 **测试邮箱号**：123456@sport.com **密码**：123456abc
 
-## 项目预览
+## 项目预览图
 <table>
   <tr>
     <td><img alt="效果图1" src="images/page1.jpg" width="100%" height="auto"></td>
@@ -37,7 +38,7 @@ le-sport （爱运动）是一个前后端分离的**体育消费券免费发放
 
 ## 重点功能模块介绍
 ### 限时抢券模块
-抢券接口采用Redis lua脚本预减库存+RabbitMQ异步发送订单实现，整理逻辑如下
+抢券接口采用Redis lua脚本预减库存+RabbitMQ异步发送订单实现，整理逻辑如下图
 ![秒杀流程图](images/seckill.png)
 
 ### 在线购票模块
